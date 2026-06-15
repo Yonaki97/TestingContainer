@@ -1,0 +1,28 @@
+{
+  
+  "name": "dockertesting",
+  "version": "1.0.0",
+  "description": "HOW TO INITIATE PROJECT TYPESCRIPT",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yonaki97/TestingContainer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Yonaki97/TestingContainer/issues"
+  },
+  "homepage": "https://github.com/Yonaki97/TestingContainer#readme",
+  "dependencies": {
+    "typescript": "^6.0.3"
+  }
+  
+}
